@@ -1,0 +1,11 @@
+{
+  "name": "taut",
+  "version": "1.0.0",
+  "description": "Hacking around with SlackAPI",
+  "scripts": {
+
+  },
+  "author": "Owen Mead-Robins <owenmead@gmail.com> (http://www.owenmead.comm)",
+  "license": "UNLICENSED",
+  "private": true
+}
